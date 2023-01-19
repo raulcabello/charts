@@ -1,6 +1,6 @@
 image:
   repository: raulcabm/fleet
-  tag: 0.5.2-upgrade-rc6
+  tag: 0.5.2-upgrade-rc7
   imagePullPolicy: IfNotPresent
 
 agentImage:
